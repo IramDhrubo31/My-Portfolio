@@ -16,3 +16,9 @@ header nav{
     border-radius: 20px;
 
 }
+
+.redColor{
+    color: red;
+    font-weight: 800;
+    font-size: 24px;
+}
